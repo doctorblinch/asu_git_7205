@@ -643,7 +643,9 @@ Asteroid = function () {
                5,  -6,
                2, -10,
               -4, -10,
-              -4,  -5]);
+              -4,  -5,
+              -3,   4
+]);
 
   this.visible = true;
   this.scale = 6;
